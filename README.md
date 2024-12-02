@@ -1,5 +1,5 @@
 # ENS_LED_Button Library (ENS_LBB.c)
-This library provides functions for interfacing with an LED and Button board for your ENS coursework.
+This library provides functions for interfacing with an LED and Button board for your ENS coursework. see the PCB repo https://github.com/Scaniox/ENS_light_sw_board
 
 ## Features
 - Configures LED and Button pins on Ports A, B, C, or D
