@@ -1,4 +1,4 @@
-ENS_LED_Button Library (ENS_LBB.c)
+# ENS_LED_Button Library (ENS_LBB.c)
 This library provides functions for interfacing with an LED and Button board for your ENS coursework.
 
 ## Features

@@ -12,7 +12,6 @@
 #include <stdbool.h>
 #include <stdint.h>
 
-
 /**
  *  @brief set up the led button board on a paticular port eg port a: ```lbb_setup(&PORTA)```
  *  @param port device port the ENS LB Board is attached to 
